@@ -11,7 +11,7 @@ public class CharBoolDemo {
 		boolean geojit = false;
 		
 		System.out.println(ga1);
-		System.out.println((int)ga2);
+		System.out.println((int)ga1);
 		System.out.println(ga2);
 		System.out.println(++ga2);
 		System.out.println(cham + "가 아니면 " + geojit + "입니다.");
